@@ -1,4 +1,8 @@
-### 算法效果
+SMPL Model
+
+- [SMPL 项目克隆自 YunYang1994项目](https://github.com/YunYang1994/openwork/tree/master/smpl)
+
+## 算法效果
 
 <p align="center">
     <img width="35%" src="https://user-images.githubusercontent.com/30433053/104713363-bb8c2b80-575e-11eb-9712-0ae42bdb4a5b.jpg" style="max-width:35%;">
